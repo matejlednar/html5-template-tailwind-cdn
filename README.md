@@ -1,2 +1,4 @@
-# tailwind-template-cdn
-Tailwind CDN Template
+# Tailwind CDN Template
+
+Standard HTML5 + Tailwind CDN template.
+
