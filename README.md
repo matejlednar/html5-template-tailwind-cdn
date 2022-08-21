@@ -1,4 +1,4 @@
-# Tailwind CDN Template
+# HTML5 Template + Tailwind CSS CDN 
 
-Standard HTML5 + Tailwind CDN template.
+Tailwind - https://tailwindcss.com/
 
